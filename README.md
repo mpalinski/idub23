@@ -9,3 +9,4 @@ Przeznaczenie skryptów:
 `select.ipynb`: Wybór artykułów do analizy jakościowej
 `BERTopic.ipynb`: Topic modelling
 `lexmo_sent.ipynb`: Analiza sentymentu
+`gensim_word2vec.ipynb`: Co-occurrence analysis
